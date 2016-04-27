@@ -1,2 +1,3 @@
 # line-bot-sample
-Sample LINE TRIAL_BOT(Repeat text messages)
+Bluemix上で稼動するLINE botのサンプルです。
+テキストメッセージをオウム返しします。
